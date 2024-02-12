@@ -10,3 +10,4 @@ We welcome contributions to make our E-Commerce Clothing Store even better. If y
 
 
 "# Endritshop-ecommerce-front-end" 
+"# endritshop" 
